@@ -3,4 +3,3 @@ Project 2
 
 Group members:
 Aaron Fernando aaron-fern@csu.fullerton.edu
-Charles Babbage charlesbab@csu.fullerton.edu
